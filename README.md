@@ -6,5 +6,6 @@ pkg install python
 pkg install git
 pip install telethon
 git clone https://github.com/shreyansh8184/String_Session
+cd String_Session
 python3 string_session.py
 ```
