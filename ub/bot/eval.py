@@ -3,7 +3,7 @@ import os
 import sys
 import traceback
 from pyrogram import Client, filters
-from Lucy import app
+from ub import app
 
 MAX_MESSAGE_LENGTH = 4069
 
