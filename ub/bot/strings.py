@@ -1,6 +1,6 @@
 
 PAYMENT_DETAILS = """
-Payment Details✅
+**Payment Details✅**
 
 Name : ARAVIND BASAPPA KUNTOJI
 Account No. : 309010816413
@@ -12,7 +12,7 @@ UPI ID : royal69@rbl
 """
 
 HOW = """
-🔥 How You Guys Can Order Any Product From @JacobCarderReborn
+**🔥 How You Guys Can Order Any Product From @JacobCarderReborn
 
 1) You Have To Pay Only RS 500 As Advance.✅
 
@@ -26,17 +26,17 @@ HOW = """
 
 🔥 Advance System Is Going On 🔥
 
-Come Fast And Grab The Deal's And Offers
+Come Fast And Grab The Deal's And Offers**
 """
 
 COD = """
-📌 Q3. Why I Couldn't Do Cash On Delivery?
+**📌 Q3. Why I Couldn't Do Cash On Delivery?
 
-Answer: I'm Placing Order On Amazon And Paying Full Money First Via Hacked Credit Card, So How I Can I Do COD Atleast Think With Some Logic And Sense.
+Answer: I'm Placing Order On Amazon And Paying Full Money First Via Hacked Credit Card, So How I Can I Do COD Atleast Think With Some Logic And Sense.**
 """
 
 FORMAT = """
-🔵 If You Are Ready To Pay Money Now Send Your Details In Following Format:
+**🔵 If You Are Ready To Pay Money Now Send Your Details In Following Format:
 
 ▪️Name:
 ▪️Mobile Number:
@@ -44,5 +44,5 @@ FORMAT = """
 ▪️Flat/House No./Building:
 ▪️Colony, Street, Locality:
 ▪️Landmark:
-▪️City:
+▪️City:**
 """
