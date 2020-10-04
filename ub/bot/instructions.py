@@ -15,7 +15,7 @@ async def how(client, message):
 async def cod(client, message):
     await message.edit(COD)
 
-@app.on_message(filters.me & filters.command(["cod"], "."))
+@app.on_message(filters.me & filters.command(["format"], "."))
 async def format(client, message):
     await message.edit(FORMAT)
 
