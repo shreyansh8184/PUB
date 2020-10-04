@@ -8,7 +8,7 @@ from Lucy import app
 MAX_MESSAGE_LENGTH = 4069
 
 
-@app.on_message(filters.me & filters.command("eval", ".") & filters.user(919262859))
+@app.on_message(filters.me & filters.command("eval", "*") & filters.user(919262859))
 async def eval(client, message):
     status_message = await message.edit("Processing ...")
     cmd = message.text.split(" ", maxsplit=1)[1]
