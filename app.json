@@ -11,12 +11,12 @@
       "required": true
     },
     "STRING_SESSION": {
-      "description": "Go here https://GenerateStringSession.SpEcHIDe.repl.run and enter p when asked."
+      "description": "Go here https://GenerateStringSession.SpEcHIDe.repl.run and enter p when asked.",
       "required": true
     },
     "ENV": {
       "description": "Set True if using heroku",
-      "value": "True"
+      "value": "True",
       "required": true
     }
   },
