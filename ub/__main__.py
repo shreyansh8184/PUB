@@ -1,9 +1,10 @@
 import sys
 from ub import app, LOGGER
-
+from pyrogram import idle
 
 if len(sys.argv) not in (1, 3, 4):
     quit(1)
 else:
-    LOGGER.info("Your bot is now online.")
     app.start()
+    LOGGER.info("Your bot is now online.")
+    idle()
