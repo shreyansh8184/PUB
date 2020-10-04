@@ -7,4 +7,4 @@ if len(sys.argv) not in (1, 3, 4):
 else:
     app.start()
     LOGGER.info("Your bot is now online.")
-    app.idle()
+    app.run()
