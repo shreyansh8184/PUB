@@ -1,0 +1,28 @@
+{
+  "name": "Bot",
+  "description": "Nothing",
+  "env": {
+    "API_ID": {
+      "description": "Get this value from my.telegram.org.",
+      "required": true
+    },
+    "API_HASH": {
+      "description": "Get this value from my.telegram.org.",
+      "required": true
+    },
+    "STRING_SESSION": {
+      "description": "Go here https://GenerateStringSession.SpEcHIDe.repl.run and enter p when asked."
+      "required": true
+    },
+    "ENV": {
+      "description": "Set True if using heroku",
+      "value": "True"
+      "required": true
+    }
+  },
+  "buildpacks": [
+    {
+      "url": "heroku/python"
+    }
+   ]
+}
